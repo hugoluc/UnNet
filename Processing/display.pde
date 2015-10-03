@@ -8,8 +8,6 @@ void display(String[] wNames, int[] nCircles) {
   int size = 10;
 
   for (int i=0; i < nWebsite; i++) {
-
-
     
     int[] positions =new int[3];
     int index = 0;
