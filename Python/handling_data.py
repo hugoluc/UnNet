@@ -2,7 +2,7 @@ import pandas as pd
 
 csvFile = pd.read_csv("out.csv", low_memory=False)
 
-site_names = ["www.ufmg.br","www.stackoverflow.com","www.facebook.com"]
+site_names = ["www.ufmg.br","www.stackoverflow.com","www.facebook.com","processing.org"]
 
 vizData = pd.DataFrame(columns = ["site","njumps","org3","orgpos","coun3","counpos"])
 
@@ -46,13 +46,12 @@ for i  in range(0,len(site_names)):
     top3Names = []    
 
     for item in topNames:
-        if len(topNames) <= 3:
-             top3Names.append(item)
-        elif item != "*":
-            top3Names.append(item)
+        if item != "Verizon Online LLC":
+            if len(topNames) <= 3:
+                 top3Names.append(item)
+            elif item != "*":
+                top3Names.append(item)
     
-    print top3Names
-
     topNames = top3Names[:3]    
 
     #get avarege position for each org
@@ -67,7 +66,7 @@ for i  in range(0,len(site_names)):
 #----------------------------
 
 
-    #grab top all orgs counts
+    #grab top all country counts
     count = 0 
     topCountryNames = []
     top3Names = []     
@@ -76,27 +75,32 @@ for i  in range(0,len(site_names)):
     for Name in set(siteData["country"]):
         
         count = count + 1
-        # all orgs counts
+        # all country counts
         countCountryNames.loc[count] = [Name, len(siteData[[x == Name for x in siteData.country]])]
    
-    # 3 top orgs
-    topCountryNames = countCountryNames.sort(columns = ["count"], ascending = [False])["name"][:3]
+    # 3 top countries
+    topCountryNames = countCountryNames.sort(columns = ["count"], ascending = [False])["name"]
 
     for item in topCountryNames:
-        if len(topCountryNames) <= 3:
-            top3Names.append(item)    
-        elif item != "*":
-            top3Names.append(item)
+
+        print(len(item))
+        if(item == "*"):
+            print("name too big adding * instead")
+        else:
+            if len(item) < 4:
+                top3Names.append(item)
     
-    print top3Names
+    while len(top3Names) < 3:
+        top3Names.append("*")
+
 
     topNames = top3Names[:3]    
 
 
-    #get avarege position for each org
+    #get avarege position for each country
     count = 0  
     countCountryNames = pd.DataFrame(columns = ["name","count"])
-    for Cnames in topCountryNames:
+    for Cnames in topNames:
 
         count = count +1  
         jumpData = siteData[[x == Cnames for x in siteData.country]]["jumpN"]
@@ -115,7 +119,6 @@ for i  in range(0,len(site_names)):
         
         vizData.loc[dvizCount] = [site_names[i],njumps,orgName,orgCount,couName,couCount]
 
-print vizData[["org3","orgpos"]]
-vizData.to_csv("vizData.csv" ,header=True)
+vizData.to_csv("../Processing/Data/vizData.csv" ,header=True)
 
 

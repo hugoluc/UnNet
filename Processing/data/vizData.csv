@@ -1,10 +1,13 @@
 ,site,njumps,org3,orgpos,coun3,counpos
-1,www.ufmg.br,18.1428571429,Latin American and Caribbean IP address Regional Registry,12.6428571429,UY,12.6428571429
-2,www.ufmg.br,18.1428571429,Asia Pacific Network Information Centre,17.1428571429,US,4.54761904762
-3,www.ufmg.br,18.1428571429,Verizon Online LLC,2.61538461538,AU,17.1428571429
-4,www.stackoverflow.com,9.42857142857,Verizon Online LLC,2.71428571429,US,4.68181818182
-5,www.stackoverflow.com,9.42857142857,RIPE Network Coordination Centre,8.33333333333,*,4.58333333333
-6,www.stackoverflow.com,9.42857142857,"CloudFlare, Inc.",9.28571428571,NL,8.33333333333
-7,www.facebook.com,10.1428571429,Verizon Online LLC,2.8,US,5.07142857143
-8,www.facebook.com,10.1428571429,RIPE Network Coordination Centre,9.0,NL,8.88888888889
-9,www.facebook.com,10.1428571429,"ANS Communications, Inc",8.0,*,3.5
+1,www.ufmg.br,18.0833333333,Latin American and Caribbean IP address Regional Registry,12.5833333333,US,4.67088607595
+2,www.ufmg.br,18.0833333333,Asia Pacific Network Information Centre,17.0833333333,UY,12.5833333333
+3,www.ufmg.br,18.0833333333,"Level 3 Communications, Inc.",8.19230769231,AU,17.0833333333
+4,www.stackoverflow.com,9.25,RIPE Network Coordination Centre,8.21428571429,US,4.64102564103
+5,www.stackoverflow.com,9.25,"CloudFlare, Inc.",9.16666666667,NL,8.21428571429
+6,www.stackoverflow.com,9.25,Internet Assigned Numbers Authority,1.0,*,4.66666666667
+7,www.facebook.com,10.0833333333,RIPE Network Coordination Centre,9.05882352941,US,5.04210526316
+8,www.facebook.com,10.0833333333,"ANS Communications, Inc",7.8,NL,9.0
+9,www.facebook.com,10.0833333333,"ANS CO+RE Systems, Inc.",5.64285714286,AU,8.0
+10,processing.org,10.0,"ANS CO+RE Systems, Inc.",5.0,US,4.96774193548
+11,processing.org,10.0,Linode,10.0,NL,7.0
+12,processing.org,10.0,"Global Net Access, LLC",9.0,*,5.8

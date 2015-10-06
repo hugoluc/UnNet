@@ -1,7 +1,7 @@
 import subprocess   
 import pandas as pd
 
-site_names = ["www.ufmg.br","www.stackoverflow.com","www.facebook.com","wwww."]
+site_names = ["www.ufmg.br","www.stackoverflow.com","www.facebook.com","processing.org"]
 cmd_names = ["traceroute","whois"]
 
 data = pd.DataFrame(columns=["jumpN","website","orgName","country"])
@@ -56,26 +56,34 @@ for i  in range(0,len(site_names)):
                 
                 whois = p.stdout.read()            
 
-                # get name or organization owber of the router
+                # get name or organization on the router
                 wStart = whois.find("OrgName:")+8
                 wEnd = whois.find("\n", wStart)
-                name = whois[wStart+8:wEnd]        
+                if wStart > 8:
+                    name = whois[wStart+8:wEnd]  
+                else:
+                    name = "*"      
 
 
                 # get country
                 wStart = whois.find("Country:")+8
                 wEnd = whois.find("\n", wStart)
-                country = whois[wStart+8:wEnd]
+                
+                print(wStart)
+
+                if wStart > 8:
+                    country = whois[wStart+8:wEnd]
+                else:
+                    country = "*"
 
                 print("data: ", count,site_names[i],name,country,"\n")
                 print("")
-
+                
 
                 data.loc[count] = [jumpCount,site_names[i],name,country]
             
 
             else:
-
                         
                 data.loc[count] = [jumpCount,site_names[i],"*","*"]     
                       
