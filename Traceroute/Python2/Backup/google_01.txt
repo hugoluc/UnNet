@@ -1,0 +1,18 @@
+ 1  fios_quantum_gateway (192.168.1.1)  1.139 ms  0.678 ms  0.670 ms
+ 2  lo0-100.nycmny-vfttp-343.verizon-gni.net (100.37.4.1)  2.072 ms  3.402 ms  1.876 ms
+ 3  t2-0-0-11.nycmny-lcr-21.verizon-gni.net (130.81.168.246)  6.892 ms
+    t2-0-0-11.nycmny-lcr-22.verizon-gni.net (130.81.168.248)  6.826 ms
+    t2-6-0-3.nycmny-lcr-22.verizon-gni.net (100.41.208.236)  6.725 ms
+ 4  * * *
+ 5  3.et-2-0-1.tl2.nyc1.alter.net (140.222.227.34)  5.518 ms
+    2.ae0.xt2.nyc4.alter.net (140.222.227.27)  5.027 ms
+    3.et-2-0-1.tl2.nyc1.alter.net (140.222.227.34)  5.220 ms
+ 6  tengige0-6-0-8.gw8.nyc4.alter.net (152.63.16.73)  15.834 ms
+    tengige0-7-0-5.gw8.nyc4.alter.net (152.63.25.230)  5.639 ms
+    tengige0-7-0-9.gw8.nyc4.alter.net (152.63.18.206)  16.558 ms
+ 7  google-gw.customer.alter.net (152.179.72.62)  4.732 ms  5.765 ms  5.575 ms
+ 8  216.239.50.106 (216.239.50.106)  5.434 ms  6.877 ms  6.059 ms
+ 9  209.85.240.113 (209.85.240.113)  4.754 ms
+    google-gw.customer.alter.net (152.179.72.62)  4.808 ms
+    209.85.240.113 (209.85.240.113)  5.157 ms
+10  lga15s47-in-f16.1e100.net (173.194.123.48)  5.047 ms  5.554 ms  5.518 ms

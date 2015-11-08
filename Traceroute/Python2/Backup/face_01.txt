@@ -1,0 +1,20 @@
+ 1  fios_quantum_gateway (192.168.1.1)  1.177 ms  0.897 ms  1.064 ms
+ 2  lo0-100.nycmny-vfttp-343.verizon-gni.net (100.37.4.1)  20.813 ms  61.743 ms  3.055 ms
+ 3  t2-0-0-11.nycmny-lcr-21.verizon-gni.net (130.81.168.246)  6.959 ms
+    t2-0-0-11.nycmny-lcr-22.verizon-gni.net (130.81.168.248)  8.567 ms
+    t2-6-0-3.nycmny-lcr-21.verizon-gni.net (100.41.208.234)  6.452 ms
+ 4  * ae5-0.ny325-bb-rtr2.verizon-gni.net (130.81.163.216)  4.643 ms *
+ 5  0.ae1.xl3.ewr6.alter.net (140.222.228.39)  6.512 ms
+    0.ae2.xl4.ewr6.alter.net (140.222.228.45)  114.687 ms
+    0.ae17.xl4.nyc1.alter.net (152.63.3.77)  4.834 ms
+ 6  tengige0-6-0-0.gw5.ewr6.alter.net (152.63.17.122)  16.551 ms
+    tengige0-4-0-2.gw5.ewr6.alter.net (152.63.23.78)  7.859 ms
+    tengige0-7-0-0.gw5.ewr6.alter.net (152.63.17.126)  12.361 ms
+ 7  fb-gw.customer.alter.net (152.193.2.42)  6.031 ms  7.178 ms  5.490 ms
+ 8  psw01c.lga1.tfbnw.net (173.252.65.216)  6.569 ms
+    psw01a.lga1.tfbnw.net (173.252.65.218)  7.754 ms
+    psw01d.lga1.tfbnw.net (173.252.65.215)  6.708 ms
+ 9  tengige0-7-0-2.gw5.ewr6.alter.net (152.63.17.166)  10.275 ms
+    msw1ah.01.lga1.tfbnw.net (74.119.78.245)  6.389 ms
+    msw1ab.01.lga1.tfbnw.net (173.252.65.83)  7.439 ms
+10  edge-star-shv-01-lga1.facebook.com (31.13.71.1)  6.033 ms  6.476 ms  5.204 ms

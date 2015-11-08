@@ -1,0 +1,424 @@
+index,jumpN,website,orgName,country1,1,www.ufmg.br,Internet Assigned Numbers Authority,US2,2,www.ufmg.br,Verizon Online LLC,US3,3,www.ufmg.br,Verizon Online LLC,US4,4,www.ufmg.br,Verizon Online LLC,US5,5,www.ufmg.br,"ANS CO+RE Systems, Inc.",US6,6,www.ufmg.br,*,*7,7,www.ufmg.br,*,*8,8,www.ufmg.br,*,*9,9,www.ufmg.br,"Level 3 Communications, Inc.",US10,10,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY11,11,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY12,12,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY13,13,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY14,14,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY15,15,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY16,16,www.ufmg.br,Asia Pacific Network Information Centre,AU17,17,www.ufmg.br,Asia Pacific Network Information Centre,AU18,18,www.ufmg.br,Asia Pacific Network Information Centre,AU19,1,www.stackoverflow.com,Internet Assigned Numbers Authority,US20,2,www.stackoverflow.com,Verizon Online LLC,US21,3,www.stackoverflow.com,Verizon Online LLC,US22,4,www.stackoverflow.com,*,*23,5,www.stackoverflow.com,*,*24,6,www.stackoverflow.com,"ANS CO+RE Systems, Inc.",US25,7,www.stackoverflow.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US26,8,www.stackoverflow.com,RIPE Network Coordination Centre,NL27,9,www.stackoverflow.com,"CloudFlare, Inc.",US28,1,www.facebook.com,Internet Assigned Numbers Authority,US29,2,www.facebook.com,Verizon Online LLC,US30,3,www.facebook.com,Verizon Online LLC,US31,4,www.facebook.com,*,*32,5,www.facebook.com,"ANS CO+RE Systems, Inc.",US33,6,www.facebook.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US34,7,www.facebook.com,"ANS Communications, Inc",US35,8,www.facebook.com,RIPE Network Coordination Centre,NL36,9,www.facebook.com,"Facebook, Inc.",US37,10,www.facebook.com,"ANS Communications, Inc",US1,1,www.ufmg.br,Internet Assigned Numbers Authority,US2,2,www.ufmg.br,Verizon Online LLC,US3,3,www.ufmg.br,Verizon Online LLC,US4,4,www.ufmg.br,*,*5,5,www.ufmg.br,"ANS CO+RE Systems, Inc.",US6,6,www.ufmg.br,*,*7,7,www.ufmg.br,"Level 3 Communications, Inc.",US8,8,www.ufmg.br,"Level 3 Communications, Inc.",US9,9,www.ufmg.br,"Level 3 Communications, Inc.",US10,10,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY11,11,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY12,12,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY13,13,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY14,14,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY15,15,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY16,16,www.ufmg.br,Asia Pacific Network Information Centre,AU17,17,www.ufmg.br,Asia Pacific Network Information Centre,AU18,18,www.ufmg.br,Asia Pacific Network Information Centre,AU19,1,www.stackoverflow.com,Internet Assigned Numbers Authority,US20,2,www.stackoverflow.com,Verizon Online LLC,US21,3,www.stackoverflow.com,Verizon Online LLC,US22,4,www.stackoverflow.com,*,*23,5,www.stackoverflow.com,*,*24,6,www.stackoverflow.com,"ANS CO+RE Systems, Inc.",US25,7,www.stackoverflow.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US26,8,www.stackoverflow.com,RIPE Network Coordination Centre,NL27,9,www.stackoverflow.com,"CloudFlare, Inc.",US28,1,www.facebook.com,Internet Assigned Numbers Authority,US29,2,www.facebook.com,Verizon Online LLC,US30,3,www.facebook.com,Verizon Online LLC,US31,4,www.facebook.com,*,*32,5,www.facebook.com,"ANS CO+RE Systems, Inc.",US33,6,www.facebook.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US34,7,www.facebook.com,"ANS Communications, Inc",US35,8,www.facebook.com,"ANS CO+RE Systems, Inc.",US36,9,www.facebook.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US37,10,www.facebook.com,"ANS Communications, Inc",US1,1.0,www.ufmg.br,Internet Assigned Numbers Authority,US
+2,2.0,www.ufmg.br,Verizon Online LLC,US
+3,3.0,www.ufmg.br,Verizon Online LLC,US
+4,4.0,www.ufmg.br,*,*
+5,5.0,www.ufmg.br,"ANS CO+RE Systems, Inc.",US
+6,6.0,www.ufmg.br,*,*
+7,7.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+8,8.0,www.ufmg.br,*,*
+9,9.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+10,10.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+11,11.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+12,12.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+13,13.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+14,14.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+15,15.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+16,16.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+17,17.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+18,18.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+19,1.0,www.stackoverflow.com,Internet Assigned Numbers Authority,US
+20,2.0,www.stackoverflow.com,Verizon Online LLC,US
+21,3.0,www.stackoverflow.com,Verizon Online LLC,US
+22,4.0,www.stackoverflow.com,Verizon Online LLC,US
+23,5.0,www.stackoverflow.com,*,*
+24,6.0,www.stackoverflow.com,"ANS CO+RE Systems, Inc.",US
+25,7.0,www.stackoverflow.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+26,8.0,www.stackoverflow.com,RIPE Network Coordination Centre,NL
+27,9.0,www.stackoverflow.com,"CloudFlare, Inc.",US
+28,1.0,www.facebook.com,Internet Assigned Numbers Authority,US
+29,2.0,www.facebook.com,Verizon Online LLC,US
+30,3.0,www.facebook.com,Verizon Online LLC,US
+31,4.0,www.facebook.com,Verizon Online LLC,US
+32,5.0,www.facebook.com,"ANS CO+RE Systems, Inc.",US
+33,6.0,www.facebook.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+34,7.0,www.facebook.com,"ANS Communications, Inc",US
+35,8.0,www.facebook.com,RIPE Network Coordination Centre,NL
+36,9.0,www.facebook.com,"Facebook, Inc.",US
+37,10.0,www.facebook.com,RIPE Network Coordination Centre,NLS
+1,1.0,www.ufmg.br,Internet Assigned Numbers Authority,US
+2,2.0,www.ufmg.br,Verizon Online LLC,US
+3,3.0,www.ufmg.br,Verizon Online LLC,US
+4,4.0,www.ufmg.br,*,*
+5,5.0,www.ufmg.br,"ANS CO+RE Systems, Inc.",US
+6,6.0,www.ufmg.br,*,*
+7,7.0,www.ufmg.br,*,*
+8,8.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+9,9.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+10,10.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+11,11.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+12,12.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+13,13.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+14,14.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+15,15.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+16,16.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+17,17.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+18,18.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+19,1.0,www.stackoverflow.com,Internet Assigned Numbers Authority,US
+20,2.0,www.stackoverflow.com,Verizon Online LLC,US
+21,3.0,www.stackoverflow.com,Verizon Online LLC,US
+22,4.0,www.stackoverflow.com,*,*
+23,5.0,www.stackoverflow.com,*,*
+24,6.0,www.stackoverflow.com,"ANS CO+RE Systems, Inc.",US
+25,7.0,www.stackoverflow.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+26,8.0,www.stackoverflow.com,RIPE Network Coordination Centre,NL
+27,9.0,www.stackoverflow.com,"CloudFlare, Inc.",US
+28,1.0,www.facebook.com,Internet Assigned Numbers Authority,US
+29,2.0,www.facebook.com,Verizon Online LLC,US
+30,3.0,www.facebook.com,Verizon Online LLC,US
+31,4.0,www.facebook.com,Verizon Online LLC,US
+32,5.0,www.facebook.com,"ANS CO+RE Systems, Inc.",US
+33,6.0,www.facebook.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+34,7.0,www.facebook.com,"ANS Communications, Inc",US
+35,8.0,www.facebook.com,RIPE Network Coordination Centre,NL
+36,9.0,www.facebook.com,"Facebook, Inc.",US
+37,10.0,www.facebook.com,RIPE Network Coordination Centre,NL
+1,1.0,www.ufmg.br,Internet Assigned Numbers Authority,US
+2,2.0,www.ufmg.br,Verizon Online LLC,US
+3,3.0,www.ufmg.br,Verizon Online LLC,US
+4,4.0,www.ufmg.br,*,*
+5,5.0,www.ufmg.br,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+6,6.0,www.ufmg.br,*,*
+7,7.0,www.ufmg.br,*,*
+8,8.0,www.ufmg.br,*,*
+9,9.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+10,10.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+11,11.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+12,12.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+13,13.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+14,14.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+15,15.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+16,16.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+17,17.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+18,18.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+19,1.0,www.stackoverflow.com,Internet Assigned Numbers Authority,US
+20,2.0,www.stackoverflow.com,Verizon Online LLC,US
+21,3.0,www.stackoverflow.com,Verizon Online LLC,US
+22,4.0,www.stackoverflow.com,Verizon Online LLC,US
+23,5.0,www.stackoverflow.com,*,*
+24,6.0,www.stackoverflow.com,"ANS CO+RE Systems, Inc.",US
+25,7.0,www.stackoverflow.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+26,8.0,www.stackoverflow.com,RIPE Network Coordination Centre,NL
+27,9.0,www.stackoverflow.com,"CloudFlare, Inc.",US
+28,1.0,www.facebook.com,Internet Assigned Numbers Authority,US
+29,2.0,www.facebook.com,Verizon Online LLC,US
+30,3.0,www.facebook.com,Verizon Online LLC,US
+31,4.0,www.facebook.com,Verizon Online LLC,US
+32,5.0,www.facebook.com,"ANS CO+RE Systems, Inc.",US
+33,6.0,www.facebook.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+34,7.0,www.facebook.com,"ANS Communications, Inc",US
+35,8.0,www.facebook.com,RIPE Network Coordination Centre,NL
+36,9.0,www.facebook.com,"Facebook, Inc.",US
+37,10.0,www.facebook.com,"ANS Communications, Inc",US
+1,1.0,www.ufmg.br,Internet Assigned Numbers Authority,US
+2,2.0,www.ufmg.br,Verizon Online LLC,US
+3,3.0,www.ufmg.br,Verizon Online LLC,US
+4,4.0,www.ufmg.br,*,*
+5,5.0,www.ufmg.br,"ANS CO+RE Systems, Inc.",US
+6,6.0,www.ufmg.br,*,*
+7,7.0,www.ufmg.br,*,*
+8,8.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+9,9.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+10,10.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+11,11.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+12,12.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+13,13.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+14,14.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+15,15.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+16,16.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+17,17.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+18,18.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+19,1.0,www.stackoverflow.com,Internet Assigned Numbers Authority,US
+20,2.0,www.stackoverflow.com,Verizon Online LLC,US
+21,3.0,www.stackoverflow.com,Verizon Online LLC,US
+22,4.0,www.stackoverflow.com,*,*
+23,5.0,www.stackoverflow.com,*,*
+24,6.0,www.stackoverflow.com,"ANS CO+RE Systems, Inc.",US
+25,7.0,www.stackoverflow.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+26,8.0,www.stackoverflow.com,RIPE Network Coordination Centre,NL
+27,9.0,www.stackoverflow.com,"CloudFlare, Inc.",US
+28,1.0,www.facebook.com,Internet Assigned Numbers Authority,US
+29,2.0,www.facebook.com,Verizon Online LLC,US
+30,3.0,www.facebook.com,Verizon Online LLC,US
+31,4.0,www.facebook.com,*,*
+32,5.0,www.facebook.com,"ANS CO+RE Systems, Inc.",US
+33,6.0,www.facebook.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+34,7.0,www.facebook.com,"ANS Communications, Inc",US
+35,8.0,www.facebook.com,RIPE Network Coordination Centre,NL
+36,9.0,www.facebook.com,"Facebook, Inc.",US
+37,10.0,www.facebook.com,RIPE Network Coordination Centre,NL
+1,1.0,www.ufmg.br,Internet Assigned Numbers Authority,US
+2,2.0,www.ufmg.br,*,*
+3,3.0,www.ufmg.br,"CSC Holdings Inc.,",US
+4,4.0,www.ufmg.br,Optimum Online,US
+5,5.0,www.ufmg.br,"CSC Holdings Inc.,",US
+6,6.0,www.ufmg.br,"CSC Holdings Inc.,",US
+7,7.0,www.ufmg.br, data and services are subject to the Terms of Use, data and services are subject to the Terms of Use
+8,8.0,www.ufmg.br,*,*
+9,9.0,www.ufmg.br,*,*
+10,10.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+11,11.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+12,12.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+13,13.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+14,14.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+15,15.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+16,16.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+17,17.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+18,18.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+19,19.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+20,1.0,www.stackoverflow.com,Internet Assigned Numbers Authority,US
+21,2.0,www.stackoverflow.com,*,*
+22,3.0,www.stackoverflow.com,"CSC Holdings Inc.,",US
+23,4.0,www.stackoverflow.com,Optimum Online,US
+24,5.0,www.stackoverflow.com,"CSC Holdings Inc.,",US
+25,6.0,www.stackoverflow.com,"CSC Holdings Inc.,",US
+26,7.0,www.stackoverflow.com,*,*
+27,8.0,www.stackoverflow.com,RIPE Network Coordination Centre,NL
+28,9.0,www.stackoverflow.com,RIPE Network Coordination Centre,NL
+29,10.0,www.stackoverflow.com,RIPE Network Coordination Centre,NL
+30,11.0,www.stackoverflow.com,"CloudFlare, Inc.",US
+31,1.0,www.facebook.com,Internet Assigned Numbers Authority,US
+32,2.0,www.facebook.com,*,*
+33,3.0,www.facebook.com,"CSC Holdings Inc.,",US
+34,4.0,www.facebook.com,Optimum Online,US
+35,5.0,www.facebook.com,"CSC Holdings Inc.,",US
+36,6.0,www.facebook.com,"CSC Holdings Inc.,",US
+37,7.0,www.facebook.com,"CSC Holdings Inc.,",US
+38,8.0,www.facebook.com,Asia Pacific Network Information Centre,AU
+39,9.0,www.facebook.com,RIPE Network Coordination Centre,NL
+40,10.0,www.facebook.com,"Facebook, Inc.",US
+41,11.0,www.facebook.com,RIPE Network Coordination Centre,NL
+1,1.0,www.ufmg.br,Internet Assigned Numbers Authority,US
+2,2.0,www.ufmg.br,Verizon Online LLC,US
+3,3.0,www.ufmg.br,Verizon Online LLC,US
+4,4.0,www.ufmg.br,*,*
+5,5.0,www.ufmg.br,"ANS CO+RE Systems, Inc.",US
+6,6.0,www.ufmg.br,*,*
+7,7.0,www.ufmg.br,*,*
+8,8.0,www.ufmg.br,*,*
+9,9.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+10,10.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+11,11.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+12,12.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+13,13.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+14,14.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+15,15.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+16,16.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+17,17.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+18,18.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+19,1.0,www.stackoverflow.com,Internet Assigned Numbers Authority,US
+20,2.0,www.stackoverflow.com,Verizon Online LLC,US
+21,3.0,www.stackoverflow.com,Verizon Online LLC,US
+22,4.0,www.stackoverflow.com,Verizon Online LLC,US
+23,5.0,www.stackoverflow.com,*,*
+24,6.0,www.stackoverflow.com,"ANS CO+RE Systems, Inc.",US
+25,7.0,www.stackoverflow.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+26,8.0,www.stackoverflow.com,RIPE Network Coordination Centre,NL
+27,9.0,www.stackoverflow.com,"CloudFlare, Inc.",US
+28,1.0,www.facebook.com,Internet Assigned Numbers Authority,US
+29,2.0,www.facebook.com,Verizon Online LLC,US
+30,3.0,www.facebook.com,Verizon Online LLC,US
+31,4.0,www.facebook.com,Verizon Online LLC,US
+32,5.0,www.facebook.com,"ANS CO+RE Systems, Inc.",US
+33,6.0,www.facebook.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+34,7.0,www.facebook.com,"ANS Communications, Inc",US
+35,8.0,www.facebook.com,"ANS CO+RE Systems, Inc.",US
+36,9.0,www.facebook.com,"Facebook, Inc.",US
+37,10.0,www.facebook.com,"ANS Communications, Inc",US
+38,1.0,processing.org,Internet Assigned Numbers Authority,US
+39,2.0,processing.org,Verizon Online LLC,US
+40,3.0,processing.org,Verizon Online LLC,US
+41,4.0,processing.org,*,*
+42,5.0,processing.org,"ANS CO+RE Systems, Inc.",US
+43,6.0,processing.org, data and services are subject to the Terms of Use, data and services are subject to the Terms of Use
+44,7.0,processing.org,RIPE Network Coordination Centre,NL
+45,8.0,processing.org, data and services are subject to the Terms of Use, data and services are subject to the Terms of Use
+46,9.0,processing.org,"Global Net Access, LLC",US
+47,10.0,processing.org,Linode,US
+1,1.0,www.ufmg.br,Internet Assigned Numbers Authority,US
+2,2.0,www.ufmg.br,Verizon Online LLC,US
+3,3.0,www.ufmg.br,Verizon Online LLC,US
+4,4.0,www.ufmg.br,*,*
+5,5.0,www.ufmg.br,"ANS CO+RE Systems, Inc.",US
+6,6.0,www.ufmg.br,*,*
+7,7.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+8,8.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+9,9.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+10,10.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+11,11.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+12,12.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+13,13.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+14,14.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+15,15.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+16,16.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+17,17.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+18,18.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+19,1.0,www.stackoverflow.com,Internet Assigned Numbers Authority,US
+20,2.0,www.stackoverflow.com,Verizon Online LLC,US
+21,3.0,www.stackoverflow.com,Verizon Online LLC,US
+22,4.0,www.stackoverflow.com,*,*
+23,5.0,www.stackoverflow.com,*,*
+24,6.0,www.stackoverflow.com,"ANS CO+RE Systems, Inc.",US
+25,7.0,www.stackoverflow.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+26,8.0,www.stackoverflow.com,RIPE Network Coordination Centre,NL
+27,9.0,www.stackoverflow.com,"CloudFlare, Inc.",US
+28,1.0,www.facebook.com,Internet Assigned Numbers Authority,US
+29,2.0,www.facebook.com,Verizon Online LLC,US
+30,3.0,www.facebook.com,Verizon Online LLC,US
+31,4.0,www.facebook.com,*,*
+32,5.0,www.facebook.com,"ANS CO+RE Systems, Inc.",US
+33,6.0,www.facebook.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+34,7.0,www.facebook.com,"ANS Communications, Inc",US
+35,8.0,www.facebook.com,"ANS CO+RE Systems, Inc.",US
+36,9.0,www.facebook.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+37,10.0,www.facebook.com,RIPE Network Coordination Centre,NL
+38,1.0,processing.org,Internet Assigned Numbers Authority,US
+39,2.0,processing.org,Verizon Online LLC,US
+40,3.0,processing.org,Verizon Online LLC,US
+41,4.0,processing.org,*,*
+42,5.0,processing.org,"ANS CO+RE Systems, Inc.",US
+43,6.0,processing.org, data and services are subject to the Terms of Use, data and services are subject to the Terms of Use
+44,7.0,processing.org,RIPE Network Coordination Centre,NL
+45,8.0,processing.org, data and services are subject to the Terms of Use, data and services are subject to the Terms of Use
+46,9.0,processing.org,"Global Net Access, LLC",US
+47,10.0,processing.org,Linode,US
+1,1.0,www.ufmg.br,Internet Assigned Numbers Authority,US
+2,2.0,www.ufmg.br,Verizon Online LLC,US
+3,3.0,www.ufmg.br,Verizon Online LLC,US
+4,4.0,www.ufmg.br,Verizon Online LLC,US
+5,5.0,www.ufmg.br,"ANS CO+RE Systems, Inc.",US
+6,6.0,www.ufmg.br,*,*
+7,7.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+8,8.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+9,9.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+10,10.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+11,11.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+12,12.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+13,13.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+14,14.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+15,15.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+16,16.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+17,17.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+18,18.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+19,1.0,www.stackoverflow.com,Internet Assigned Numbers Authority,US
+20,2.0,www.stackoverflow.com,Verizon Online LLC,US
+21,3.0,www.stackoverflow.com,Verizon Online LLC,US
+22,4.0,www.stackoverflow.com,Verizon Online LLC,US
+23,5.0,www.stackoverflow.com,*,*
+24,6.0,www.stackoverflow.com,"ANS CO+RE Systems, Inc.",US
+25,7.0,www.stackoverflow.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+26,8.0,www.stackoverflow.com,RIPE Network Coordination Centre,NL
+27,9.0,www.stackoverflow.com,"CloudFlare, Inc.",US
+28,1.0,www.facebook.com,Internet Assigned Numbers Authority,US
+29,2.0,www.facebook.com,Verizon Online LLC,US
+30,3.0,www.facebook.com,Verizon Online LLC,US
+31,4.0,www.facebook.com,*,*
+32,5.0,www.facebook.com,"ANS CO+RE Systems, Inc.",US
+33,6.0,www.facebook.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+34,7.0,www.facebook.com,"ANS Communications, Inc",US
+35,8.0,www.facebook.com,RIPE Network Coordination Centre,NL
+36,9.0,www.facebook.com,"Facebook, Inc.",US
+37,10.0,www.facebook.com,RIPE Network Coordination Centre,NL
+38,1.0,processing.org,Internet Assigned Numbers Authority,US
+39,2.0,processing.org,Verizon Online LLC,US
+40,3.0,processing.org,Verizon Online LLC,US
+41,4.0,processing.org,*,*
+42,5.0,processing.org,"ANS CO+RE Systems, Inc.",US
+43,6.0,processing.org,*,*
+44,7.0,processing.org,RIPE Network Coordination Centre,NL
+45,8.0,processing.org,*,*
+46,9.0,processing.org,"Global Net Access, LLC",US
+47,10.0,processing.org,Linode,US
+1,1.0,www.ufmg.br,Internet Assigned Numbers Authority,US
+2,2.0,www.ufmg.br,Verizon Online LLC,US
+3,3.0,www.ufmg.br,Verizon Online LLC,US
+4,4.0,www.ufmg.br,Verizon Online LLC,US
+5,5.0,www.ufmg.br,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+6,6.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+7,7.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+8,8.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+9,9.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+10,10.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+11,11.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+12,12.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+13,13.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+14,14.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+15,15.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+16,16.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+17,17.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+18,18.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+19,1.0,www.stackoverflow.com,Internet Assigned Numbers Authority,US
+20,2.0,www.stackoverflow.com,Verizon Online LLC,US
+21,3.0,www.stackoverflow.com,Verizon Online LLC,US
+22,4.0,www.stackoverflow.com,Verizon Online LLC,US
+23,5.0,www.stackoverflow.com,*,*
+24,6.0,www.stackoverflow.com,"ANS CO+RE Systems, Inc.",US
+25,7.0,www.stackoverflow.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+26,8.0,www.stackoverflow.com,RIPE Network Coordination Centre,NL
+27,9.0,www.stackoverflow.com,"CloudFlare, Inc.",US
+28,1.0,www.facebook.com,Internet Assigned Numbers Authority,US
+29,2.0,www.facebook.com,Verizon Online LLC,US
+30,3.0,www.facebook.com,Verizon Online LLC,US
+31,4.0,www.facebook.com,*,*
+32,5.0,www.facebook.com,"ANS CO+RE Systems, Inc.",US
+33,6.0,www.facebook.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+34,7.0,www.facebook.com,"ANS Communications, Inc",US
+35,8.0,www.facebook.com,RIPE Network Coordination Centre,NL
+36,9.0,www.facebook.com,"Facebook, Inc.",US
+37,10.0,www.facebook.com,RIPE Network Coordination Centre,NL
+38,1.0,processing.org,Internet Assigned Numbers Authority,US
+39,2.0,processing.org,Verizon Online LLC,US
+40,3.0,processing.org,Verizon Online LLC,US
+41,4.0,processing.org,*,*
+42,5.0,processing.org,"ANS CO+RE Systems, Inc.",US
+43,6.0,processing.org,*,*
+44,7.0,processing.org,RIPE Network Coordination Centre,NL
+45,8.0,processing.org,*,*
+46,9.0,processing.org,"Global Net Access, LLC",US
+47,10.0,processing.org,Linode,US
+1,1.0,www.ufmg.br,Internet Assigned Numbers Authority,US
+2,2.0,www.ufmg.br,Verizon Online LLC,US
+3,3.0,www.ufmg.br,Verizon Online LLC,US
+4,4.0,www.ufmg.br,Verizon Online LLC,US
+5,5.0,www.ufmg.br,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+6,6.0,www.ufmg.br,*,*
+7,7.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+8,8.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+9,9.0,www.ufmg.br,"Level 3 Communications, Inc.",US
+10,10.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+11,11.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+12,12.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+13,13.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+14,14.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+15,15.0,www.ufmg.br,Latin American and Caribbean IP address Regional Registry,UY
+16,16.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+17,17.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+18,18.0,www.ufmg.br,Asia Pacific Network Information Centre,AU
+19,1.0,www.stackoverflow.com,Internet Assigned Numbers Authority,US
+20,2.0,www.stackoverflow.com,Verizon Online LLC,US
+21,3.0,www.stackoverflow.com,Verizon Online LLC,US
+22,4.0,www.stackoverflow.com,Verizon Online LLC,US
+23,5.0,www.stackoverflow.com,*,*
+24,6.0,www.stackoverflow.com,"ANS CO+RE Systems, Inc.",US
+25,7.0,www.stackoverflow.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+26,8.0,www.stackoverflow.com,RIPE Network Coordination Centre,NL
+27,9.0,www.stackoverflow.com,"CloudFlare, Inc.",US
+28,1.0,www.facebook.com,Internet Assigned Numbers Authority,US
+29,2.0,www.facebook.com,Verizon Online LLC,US
+30,3.0,www.facebook.com,Verizon Online LLC,US
+31,4.0,www.facebook.com,*,*
+32,5.0,www.facebook.com,"ANS CO+RE Systems, Inc.",US
+33,6.0,www.facebook.com,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+34,7.0,www.facebook.com,"ANS Communications, Inc",US
+35,8.0,www.facebook.com,RIPE Network Coordination Centre,NL
+36,9.0,www.facebook.com,"Facebook, Inc.",US
+37,10.0,www.facebook.com,RIPE Network Coordination Centre,NL
+38,1.0,processing.org,Internet Assigned Numbers Authority,US
+39,2.0,processing.org,Verizon Online LLC,US
+40,3.0,processing.org,Verizon Online LLC,US
+41,4.0,processing.org,Verizon Online LLC,US
+42,5.0,processing.org,"ANS CO+RE Systems, Inc.",US
+43,6.0,processing.org,*,*
+44,7.0,processing.org,RIPE Network Coordination Centre,NL
+45,8.0,processing.org,*,*
+46,9.0,processing.org,"Global Net Access, LLC",US
+47,10.0,processing.org,Linode,US
